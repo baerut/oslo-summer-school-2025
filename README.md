@@ -2,7 +2,7 @@
 
 ## Course Website
 
-https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2025-09-22-26_xml-summerschool.html
+- [On the University of Oslo's Website](https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2025-09-22-26_xml-summerschool.html)
 
 ## Lesson Overview
 
@@ -33,6 +33,9 @@ https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2025-09-22-26
 - [Encoding Correspondence](https://encoding-correspondence.bbaw.de/v1/) by the TEI Special Interest Group "CorrespDesc" and the CorrespSearch developer team
 
 - Example for good documentation: [The Livingstone Project](https://livingstoneonline.org/)
+#### From MS Word and Transkribus to TEI
+
+- [Slides](/word-to-tei.pdf)
 
 ### Wednesday
 
