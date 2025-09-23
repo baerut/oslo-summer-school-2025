@@ -39,6 +39,11 @@
 #### From MS Word and Transkribus to TEI
 
 - [Slides](/word-to-tei.pdf)
+- other options for getting from HTR-tools to TEI file:
+    - [Teinte](https://obtic.huma-num.fr/teinte/)
+    - HTR: (https://obtic-gpu1.mesu.sorbonne-universite.fr:8550/handwritten_text_recognition)
+    - open source tool alternative for handwritten text recognition/HTR: [eScriptorium](https://obtic-gpu1.mesu.sorbonne-universite.fr:8501/)
+- transforming [Alto XML into TEI XML](https://github.com/TEI4HTR/alto2tei) and [Page XML into TEI XML](https://github.com/TEI4HTR/page2tei)
 
 ### Wednesday
 
