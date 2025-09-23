@@ -33,6 +33,9 @@
 - [Encoding Correspondence](https://encoding-correspondence.bbaw.de/v1/) by the TEI Special Interest Group "CorrespDesc" and the CorrespSearch developer team
 
 - Example for good documentation: [The Livingstone Project](https://livingstoneonline.org/)
+
+- Other examples: [Humboldt Digital](https://edition-humboldt.de/?&l=en), using the DTABf schema
+
 #### From MS Word and Transkribus to TEI
 
 - [Slides](/word-to-tei.pdf)
