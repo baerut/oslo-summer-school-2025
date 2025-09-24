@@ -70,7 +70,7 @@
 
 #### Research Data Management
 
-- [Slides]()
+- [Slides](/2025-09-24_DMP-DataverseNO.pdf)
 
 ### Thursday
 
