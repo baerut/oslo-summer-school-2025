@@ -10,7 +10,7 @@
 
 #### Welcome & Housekeeping
 
-- [Slides live](https://slides.com/annikarockenberger/oslo-summer-school_2025)
+- [Slides live on Slides.com](https://slides.com/annikarockenberger/oslo-summer-school_2025)
 
 #### Introduction to Sustainable Digital Scholarly Editions
 
@@ -18,14 +18,14 @@
 
 #### Introduction to XML
 
-- [Slides](/2025-BaerUt-Markup_XML.pdf)
+- [Slides](2025-BaerUt-Markup_XML.pdf)
 - [Exercise materials](https://raw.githubusercontent.com/emylonas/LIS542A-Sources/refs/heads/main/Week4-Validation/OxygenCorrections.xml)
 
 ### Tuesday
 
 #### Introduction to the TEI and TEI Guidelines
 
-- [Slides](/2025-BaerUt-TEI.pdf)
+- [Slides](2025-BaerUt-TEI.pdf)
 
 #### Encoding Standards based on the TEI
 
@@ -40,7 +40,7 @@
 
 #### From MS Word and Transkribus to TEI
 
-- [Slides](/word-to-tei.pdf)
+- [Slides](word-to-tei.pdf)
 - other options for getting from HTR-tools to TEI file:
     - [Teinte](https://obtic.huma-num.fr/teinte/)
     - HTR: (https://obtic-gpu1.mesu.sorbonne-universite.fr:8550/handwritten_text_recognition)
@@ -51,7 +51,7 @@
 
 #### General Info
 
-- the [BærUt! weblog on Hypotheses.org](https://dsenetwork.hypotheses.org/)
+- the [BærUt! Weblog on Hypotheses.org](https://dsenetwork.hypotheses.org/)
 
 #### Character Encoding
 
@@ -61,7 +61,7 @@
 
 #### XPath
 
-- [Slides](/2025-BaerUT-XPath.pdf)
+- [Slides](2025-BaerUT-XPath.pdf)
 - an [introduction to XPath](http://dh.obdurodon.org/introduction-xpath.xhtml)
 
 #### TEI Customisation and ODDs
@@ -70,7 +70,7 @@
 
 #### Research Data Management
 
-- [Slides](/2025-09-24_DMP-DataverseNO.pdf)
+- [Slides](2025-09-24_DMP-DataverseNO.pdf)
 
 ### Thursday
 
