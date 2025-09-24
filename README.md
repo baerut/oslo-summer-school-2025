@@ -18,12 +18,14 @@
 
 #### Introduction to XML
 
-- [Slides]
+- [Slides](/2025-BaerUt-Markup_XML.pdf)
 - [Exercise materials](https://raw.githubusercontent.com/emylonas/LIS542A-Sources/refs/heads/main/Week4-Validation/OxygenCorrections.xml)
 
 ### Tuesday
 
 #### Introduction to the TEI and TEI Guidelines
+
+- [Slides](/2025-BaerUt-TEI.pdf)
 
 #### Encoding Standards based on the TEI
 
@@ -59,6 +61,7 @@
 
 #### XPath
 
+- [Slides](/2025-BaerUT-XPath.pdf)
 - an [introduction to XPath](http://dh.obdurodon.org/introduction-xpath.xhtml)
 
 #### TEI Customisation and ODDs
