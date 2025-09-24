@@ -47,6 +47,20 @@
 
 ### Wednesday
 
+#### General Info
+
+- the BærUt! weblog on Hypotheses.org (https://dsenetwork.hypotheses.org/)
+
+#### Character Encoding
+
+- [Slides](https://drive.google.com/drive/u/0/folders/1qGI0RKwj4ZD5Lnp6e5CS_gpSkj2BJapu)
+- [Unicode](https://home.unicode.org/)
+- [MUFI - Medieval Unicode Font Initiative](https://www.mufi.info/q.php?p=mufi)
+
+#### XPath
+
+- (http://dh.obdurodon.org/introduction-xpath.xhtml)
+
 ### Thursday
 
 ### Friday
