@@ -67,11 +67,16 @@
 #### TEI Customisation and ODDs
 
 - [ROMA](https://romabeta.tei-c.org/) for creating TEI customisations/ODDs
+- [Slides](2025-09-24_Customizing-Documenting-ODD.pdf)
 
 #### Research Data Management
 
 - [Slides](2025-09-24_DMP-DataverseNO.pdf)
 
 ### Thursday
+
+#### TEI Publisher
+
+- [Slides](2025-09-25_Creating-Websites-with-TEIPublisher.pdf)
 
 ### Friday
