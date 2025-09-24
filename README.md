@@ -61,6 +61,14 @@
 
 - an [introduction to XPath](http://dh.obdurodon.org/introduction-xpath.xhtml)
 
+#### TEI Customisation and ODDs
+
+- [ROMA](https://romabeta.tei-c.org/) for creating TEI customisations/ODDs
+
+#### Research Data Management
+
+- [Slides]()
+
 ### Thursday
 
 ### Friday
