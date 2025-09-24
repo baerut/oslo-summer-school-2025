@@ -49,7 +49,7 @@
 
 #### General Info
 
-- the BærUt! weblog on Hypotheses.org (https://dsenetwork.hypotheses.org/)
+- the [BærUt! weblog on Hypotheses.org](https://dsenetwork.hypotheses.org/)
 
 #### Character Encoding
 
@@ -59,7 +59,7 @@
 
 #### XPath
 
-- (http://dh.obdurodon.org/introduction-xpath.xhtml)
+- an [introduction to XPath](http://dh.obdurodon.org/introduction-xpath.xhtml)
 
 ### Thursday
 
