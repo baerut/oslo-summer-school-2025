@@ -85,6 +85,6 @@
 
 #### Apparatus
 
-- [Slides](2025-09-25_apparatus-igntp-tei.pdf)
+- [Slides](2025-09-25_apparatus_igntp_tei.pdf)
 
 ### Friday
