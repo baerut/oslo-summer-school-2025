@@ -79,4 +79,12 @@
 
 - [Slides](2025-09-25_Creating-Websites-with-TEIPublisher.pdf)
 
+#### Digital Philology for Dummies
+
+#### Edition Visualisation Technology EVT
+
+#### Apparatus
+
+- [Slides](2025-09-25_apparatus-igntp-tei.pdf)
+
 ### Friday
