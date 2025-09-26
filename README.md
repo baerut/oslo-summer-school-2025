@@ -96,7 +96,7 @@
 
 #### XSLT for Simple Transformations
 
-- [Slides]()
+- [Slides](2025-BaerUt-XSLT.pdf)
 
 #### Working with Digital Philology for Dummies
 
