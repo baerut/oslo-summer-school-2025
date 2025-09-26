@@ -55,7 +55,8 @@
 
 #### Character Encoding
 
-- [Slides](https://drive.google.com/drive/u/0/folders/1qGI0RKwj4ZD5Lnp6e5CS_gpSkj2BJapu)
+- [Slides](2025-09-24_TEI-critical-editions.pdf) including also TEI encoding for critical editions
+- [Slides](2025-09-24_TEI-digital-facsimiles-diplomatic-editions.pdf) inlcuding TEI encoding for diplomatic editions and facsimile editions
 - [Unicode](https://home.unicode.org/)
 - [MUFI - Medieval Unicode Font Initiative](https://www.mufi.info/q.php?p=mufi)
 
@@ -82,6 +83,8 @@
 #### Digital Philology for Dummies
 
 #### Edition Visualisation Technology EVT
+
+- [Slides](2025-09-25_EVT-introduction.pdf)
 
 #### Apparatus
 
