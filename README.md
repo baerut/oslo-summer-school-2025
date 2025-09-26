@@ -82,6 +82,8 @@
 
 #### Digital Philology for Dummies
 
+- [Slides](2025-09-25_Digital-Philology-for-Dummies.pdf)
+
 #### Edition Visualisation Technology EVT
 
 - [Slides](2025-09-25_EVT-introduction.pdf)
@@ -91,3 +93,11 @@
 - [Slides](2025-09-25_apparatus_igntp_tei.pdf)
 
 ### Friday
+
+#### XSLT for Simple Transformations
+
+- [Slides]()
+
+#### Working with Digital Philology for Dummies
+
+- [Materials for DPhD](materiali)
