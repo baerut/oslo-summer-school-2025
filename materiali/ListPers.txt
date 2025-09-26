@@ -1,0 +1,44 @@
+Catullus
+Cornelio
+Cornelius
+Cornelio
+Lugete
+Veneres
+Iuppiter Iuppiter Iupiter Iuppiter Iuppitter Iuppiter|Iupiter|Iuppiter
+
+<ListPerson>
+    <Person xml:id="Cupid">
+        <PersName>
+            <Forename>Cupido</Forename>
+            <Surname></Surname>
+        </PersName>
+    </Person>
+<Person xml:id="Venus">
+        <PersName>
+            <Forename>Venus</Forename>
+            <Surname></Surname>
+        </PersName>
+    </Person>
+<Person xml:id="Jupiter">
+        <PersName>
+            <Forename>Jupiter</Forename>
+            <Surname></Surname>
+        </PersName>
+    </Person>
+<Person xml:id="Catullus">
+        <PersName>
+            <Forename>Catullus</Forename>
+            <Surname></Surname>
+        </PersName>
+    </Person>
+<Person xml:id="Lugete">
+        <PersName>
+            <Forename>Lugete</Forename>
+            <Surname></Surname>
+        </PersName>
+    </Person>
+
+
+
+
+</ListPerson>
